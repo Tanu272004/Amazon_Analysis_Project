@@ -124,4 +124,5 @@ Name: Tanmay Sharma
 LinkedIn: www.linkedin.com/in/
 tanmay-sharma-800599373
 GitHub: https://github.com/Tanu272004/Amazon_Analysis_Project.git
+Wordpress-Link: http://tanmayportfolio52.wordpress.com
 
